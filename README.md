@@ -1,3 +1,12 @@
+# USER
+This project was uploaded by Mircea Dumitrache (dmircea) as a step by step learning of React. I am using the book titled "The Road to React" by 
+Robin Wieruch (2021 edition). 
+
+If there are any concerns about this repository, please reach out to me through github or by e-mail at: dmircea4you@gmail.com.
+
+NOTE: Everything below this statement is a description as given by the create-react-app template. The only changes were applied above.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
